@@ -115,6 +115,7 @@ public class InserirConta extends RunnerTest {
         }
     }
 
+    @After (order = 0)
    public void fecharBrowser(){
     driver.quit();
    }

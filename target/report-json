@@ -11,7 +11,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1187106000,
+              "duration": 1084323200,
               "status": "passed"
             },
             "line": 15,
@@ -23,7 +23,7 @@
           },
           {
             "result": {
-              "duration": 80772100,
+              "duration": 109367900,
               "status": "passed"
             },
             "line": 16,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 44810000,
+              "duration": 51715500,
               "status": "passed"
             },
             "line": 17,
@@ -59,7 +59,7 @@
           },
           {
             "result": {
-              "duration": 511068300,
+              "duration": 506232900,
               "status": "passed"
             },
             "line": 18,
@@ -71,7 +71,7 @@
           },
           {
             "result": {
-              "duration": 23605800,
+              "duration": 23149300,
               "status": "passed"
             },
             "line": 19,
@@ -83,7 +83,7 @@
           },
           {
             "result": {
-              "duration": 32146500,
+              "duration": 31506600,
               "status": "passed"
             },
             "line": 20,
@@ -95,7 +95,7 @@
           },
           {
             "result": {
-              "duration": 194875500,
+              "duration": 182982300,
               "status": "passed"
             },
             "line": 21,
@@ -108,7 +108,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-04-25T22:42:18.209Z",
+        "start_timestamp": "2023-04-25T23:16:51.759Z",
         "line": 30,
         "name": "deve validar regras cadastro de contas",
         "description": "",
@@ -116,7 +116,7 @@
         "after": [
           {
             "result": {
-              "duration": 75708300,
+              "duration": 82765600,
               "status": "passed"
             },
             "match": {
@@ -129,7 +129,7 @@
         "steps": [
           {
             "result": {
-              "duration": 62893900,
+              "duration": 57989500,
               "status": "passed"
             },
             "line": 24,
@@ -147,7 +147,7 @@
           },
           {
             "result": {
-              "duration": 245871700,
+              "duration": 226586900,
               "status": "passed"
             },
             "line": 25,
@@ -159,7 +159,7 @@
           },
           {
             "result": {
-              "duration": 20109200,
+              "duration": 25128700,
               "status": "passed"
             },
             "line": 26,
@@ -191,7 +191,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1131057000,
+              "duration": 1121742900,
               "status": "passed"
             },
             "line": 15,
@@ -203,7 +203,7 @@
           },
           {
             "result": {
-              "duration": 78069600,
+              "duration": 84677000,
               "status": "passed"
             },
             "line": 16,
@@ -221,7 +221,7 @@
           },
           {
             "result": {
-              "duration": 44263300,
+              "duration": 45833900,
               "status": "passed"
             },
             "line": 17,
@@ -239,7 +239,7 @@
           },
           {
             "result": {
-              "duration": 527398100,
+              "duration": 503322800,
               "status": "passed"
             },
             "line": 18,
@@ -251,7 +251,7 @@
           },
           {
             "result": {
-              "duration": 19672900,
+              "duration": 25594700,
               "status": "passed"
             },
             "line": 19,
@@ -263,7 +263,7 @@
           },
           {
             "result": {
-              "duration": 29495000,
+              "duration": 34369800,
               "status": "passed"
             },
             "line": 20,
@@ -275,7 +275,7 @@
           },
           {
             "result": {
-              "duration": 193085800,
+              "duration": 187338900,
               "status": "passed"
             },
             "line": 21,
@@ -288,7 +288,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-04-25T22:42:20.703Z",
+        "start_timestamp": "2023-04-25T23:16:54.154Z",
         "line": 31,
         "name": "deve validar regras cadastro de contas",
         "description": "",
@@ -296,7 +296,7 @@
         "after": [
           {
             "result": {
-              "duration": 63154700,
+              "duration": 89849000,
               "status": "passed"
             },
             "match": {
@@ -309,7 +309,7 @@
         "steps": [
           {
             "result": {
-              "duration": 37775200,
+              "duration": 42486900,
               "status": "passed"
             },
             "line": 24,
@@ -327,7 +327,7 @@
           },
           {
             "result": {
-              "duration": 198964500,
+              "duration": 206404800,
               "status": "passed"
             },
             "line": 25,
@@ -339,7 +339,7 @@
           },
           {
             "result": {
-              "duration": 22046800,
+              "duration": 28884600,
               "status": "passed"
             },
             "line": 26,
@@ -371,7 +371,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1114190800,
+              "duration": 1155383200,
               "status": "passed"
             },
             "line": 15,
@@ -383,7 +383,7 @@
           },
           {
             "result": {
-              "duration": 96654600,
+              "duration": 115376500,
               "status": "passed"
             },
             "line": 16,
@@ -401,7 +401,7 @@
           },
           {
             "result": {
-              "duration": 47716900,
+              "duration": 49671300,
               "status": "passed"
             },
             "line": 17,
@@ -419,7 +419,7 @@
           },
           {
             "result": {
-              "duration": 509890400,
+              "duration": 537147000,
               "status": "passed"
             },
             "line": 18,
@@ -431,7 +431,7 @@
           },
           {
             "result": {
-              "duration": 20845400,
+              "duration": 23904300,
               "status": "passed"
             },
             "line": 19,
@@ -443,7 +443,7 @@
           },
           {
             "result": {
-              "duration": 29241600,
+              "duration": 33394400,
               "status": "passed"
             },
             "line": 20,
@@ -455,7 +455,7 @@
           },
           {
             "result": {
-              "duration": 192755100,
+              "duration": 224702500,
               "status": "passed"
             },
             "line": 21,
@@ -468,7 +468,7 @@
         ]
       },
       {
-        "start_timestamp": "2023-04-25T22:42:23.050Z",
+        "start_timestamp": "2023-04-25T23:16:56.528Z",
         "line": 32,
         "name": "deve validar regras cadastro de contas",
         "description": "",
@@ -476,7 +476,7 @@
         "after": [
           {
             "result": {
-              "duration": 60777400,
+              "duration": 102517300,
               "status": "passed"
             },
             "match": {
@@ -489,7 +489,7 @@
         "steps": [
           {
             "result": {
-              "duration": 70872600,
+              "duration": 81122500,
               "status": "passed"
             },
             "line": 24,
@@ -507,7 +507,7 @@
           },
           {
             "result": {
-              "duration": 199001700,
+              "duration": 211936200,
               "status": "passed"
             },
             "line": 25,
@@ -519,7 +519,7 @@
           },
           {
             "result": {
-              "duration": 24010300,
+              "duration": 21696300,
               "status": "passed"
             },
             "line": 26,
