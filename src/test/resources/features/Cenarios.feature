@@ -1,9 +1,9 @@
 # language: pt
 
 # Os cenários descritos falam por si só, porém vou dar uma breve explicação:
-#Nesse caso de teste foi escritos cenários onde o primeiro cenário serve como validador, o segundo
-#serve como um clone descrito para negar uma ocorrência específica no cenário, o terceiro serve como negação de todos
-#os passos descritos ele cenário exemplo quando trabalhando com vários cenários iguais que podem ocorrer erros.
+# Nesse caso de teste foi escritos cenários onde o primeiro cenário serve como validador, o segundo
+# serve como um clone descrito para negar uma ocorrência específica no cenário, o terceiro serve como negação de todos
+# os passos descritos nele.
 
 @unitários
 @cenarios
