@@ -35,9 +35,3 @@
   |   4   |    estendido   |   8   |    3   |     2     |
   |   4   |    comum       |   4   |    1   |     1     |
   |   5   |    semanal     |   15  |    7   |     3     |
-
-#  Ao analisar meus teste percebi que o cliente fala de um tipo de categoria que seria a  estendida,
-#  porém ele não fala de outro tipo de categoria, então notei que devesse criar outro tipo de categoria
-#  pelo fato que si paramos para observa ou ela é estendida ou nulo.
-#  obs: Notei um problema futuro só lendo nossos passos e cenários e criando novo cenário
-#  para ser utilizado.
